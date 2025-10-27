@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Karan Keskar
 
-<!--
-**karankeskar/karankeskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Master’s student in Computer Science at the University of Sydney  
+ Passionate about frontend engineering, scalable architecture, and software design.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Focus
+- **Frontend:** React, Next.js, TypeScript (learning)
+- **Backend:** Node.js, Express, MongoDB
+- **Mobile:** React Native, Expo
+- **Other Tools:** Firebase, Drizzle ORM, Git, Vercel
+
+---
+
+###  What I Enjoy Building
+- Clean, responsive UIs with strong state management
+- APIs and backend logic that scale efficiently
+- Small experiments combining AI, automation, and web technology
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/karan-keskar)
+- [Email](mailto:karankeskar058@gmail.com)
+
+---
+
+ *Always open to learning, collaborating, and exploring modern web technologies.*
