@@ -1,7 +1,7 @@
 # Hi, I'm Karan Keskar
 
  Master’s student in Computer Science at the University of Sydney  
- Passionate about frontend engineering, scalable architecture, and software design.  
+ Passionate about full-stack development, scalable architecture, and software design.  
 
 ---
 
