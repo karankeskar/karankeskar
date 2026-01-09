@@ -20,7 +20,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 - [LinkedIn](https://linkedin.com/in/karan-keskar)
 - [Email](mailto:karankeskar058@gmail.com)
 
