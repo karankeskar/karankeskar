@@ -6,7 +6,7 @@
 ---
 
 ###  Tech Focus
-- **Frontend:** React, Next.js, TypeScript (learning)
+- **Frontend:** React, Next.js, TypeScript
 - **Backend:** Node.js, Express, MongoDB
 - **Mobile:** React Native, Expo
 - **Other Tools:** Firebase, Drizzle ORM, Git, Vercel
