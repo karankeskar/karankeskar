@@ -5,9 +5,10 @@
 
 ---
 
-###  Tech Focus
+### Tech Focus
 - **Frontend:** React, Next.js, TypeScript
-- **Backend:** Node.js, Express, MongoDB
+- **Backend:** Node.js, Express, C#, ASP.NET Core
+- **Databases:** MongoDB, PostgreSQL
 - **Mobile:** React Native, Expo
 - **Other Tools:** Firebase, Drizzle ORM, Git, Vercel
 
