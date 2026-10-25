@@ -1,30 +1,62 @@
-# Hi, I'm Karan Keskar
+# Hi, I'm Karan
 
- Master’s student in Computer Science at the University of Sydney  
- Passionate about full-stack development, scalable architecture, and software design.  
+Full-stack developer in Sydney, building web products at [Stackmarks](https://stackmarks.com) and tutoring Enterprise Scale Software Architecture at the University of Sydney. I hold a Master of Computer Science from USYD.
 
----
+I like clean architecture, scalable backends, and small experiments that mix AI, automation, and the web.
 
-### Tech Focus
-- **Frontend:** React, Next.js, TypeScript
-- **Backend:** Node.js, Express, C#, ASP.NET Core
-- **Databases:** MongoDB, PostgreSQL
-- **Mobile:** React Native, Expo
-- **Other Tools:** Firebase, Drizzle ORM, Git, Vercel
+[Portfolio](https://karankeskar.com) · [Blog](https://karanstackdev.wordpress.com) · [LinkedIn](https://www.linkedin.com/in/karan-keskar)
 
 ---
 
-###  What I Enjoy Building
-- Clean, responsive UIs with strong state management
-- APIs and backend logic that scale efficiently
-- Small experiments combining AI, automation, and web technology
+## Tech
+
+**Primary**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Enterprise / .NET**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**Mobile & tooling**
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### Connect with Me
-- [LinkedIn](https://linkedin.com/in/karan-keskar)
-- [Email](mailto:karankeskar058@gmail.com)
+## What I enjoy building
+
+- Responsive UIs with solid state management
+- APIs and backend logic that scale cleanly
+- Layered, testable architectures (Clean Architecture, domain-driven design)
+- Automation and AI-assisted workflows
 
 ---
 
- *Always open to learning, collaborating, and exploring modern web technologies.*
+## Currently
+
+- Building features across the stack at Stackmarks
+- Tutoring software architecture at USYD
+- Deepening my knowledge of the .NET and Azure ecosystem
+
+---
+
+## GitHub stats
+
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karankeskar&show_icons=true&theme=github_dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karankeskar&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+*Always open to learning, collaborating, and talking shop. Say hi on [LinkedIn](https://www.linkedin.com/in/karan-keskar).*
