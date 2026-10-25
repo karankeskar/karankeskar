@@ -1,6 +1,6 @@
 # Hi, I'm Karan
 
-Full-stack developer in Sydney, building web products at [Stackmarks](https://stackmarks.com) and tutoring Enterprise Scale Software Architecture at the University of Sydney. I hold a Master of Computer Science from USYD.
+Full-stack developer in Sydney, building web products and tutoring Enterprise-Scale Software Architecture at the University of Sydney. I hold a Master of Computer Science from USYD.
 
 I like clean architecture, scalable backends, and small experiments that mix AI, automation, and the web.
 
